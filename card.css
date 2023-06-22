@@ -1,0 +1,26 @@
+ /* #all{
+    padding: 10%; 
+    background-color: aqua;
+    font-weight: bold;
+    text-align: right;
+}
+.col{
+    padding: 1%;
+}
+div{
+    background-color: white;
+}
+.h_container{
+    background-color: red;
+    border-radius: 20px;
+    background-color:white;
+    display: inline;
+
+}
+#heart{
+    font-size: 25px;
+}
+#heart:hover{
+    color:red;
+    border-color: red;
+}  */
